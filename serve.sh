@@ -1,1 +1,1 @@
-docsify serve --port 3999
+docsify serve ./docs --port 3999 --open
