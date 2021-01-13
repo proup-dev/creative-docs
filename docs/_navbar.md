@@ -1,2 +1,1 @@
-* [English](/en/)
-* [Tiếng Việt](/vi/)
+* [Version 1.0](/v1.0/)
