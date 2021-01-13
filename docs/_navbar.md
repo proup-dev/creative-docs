@@ -1,1 +1,1 @@
-* [Version 1.0](/v1.0/)
+* [Version 1.x](/v1.x/)
