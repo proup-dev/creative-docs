@@ -8,7 +8,7 @@ Created: `10 Jan 2021`
 
 By: [ProUp Team](https://proup.dev)
 
-Email: [myproup.dev@gmail.com](mailto:myproup.dev@gmail.com)
+Email: [assist.proupdev@gmail.com](mailto:assist.proupdev@gmail.com)
 
 Thank you for purchasing this product. If you have any questions that are beyond the scope of this help file, please
 feel free to email via my user page contact form [here](https://codecanyon.net/user/proupdev) for quickly support.
